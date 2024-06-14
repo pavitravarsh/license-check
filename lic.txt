@@ -1,0 +1,81 @@
+lmutil - Copyright (c) 1989-2015 Flexera Software LLC. All Rights Reserved.
+Flexible License Manager status on Fri 6/14/2024 22:53
+
+[Detecting lmgrd processes...]
+License server status: 27000@localhost
+    License file(s) on localhost: D:\M\Murugan_B4B686DDCBDE_60Tokens_OEM_May2024_1.lic:
+
+ localhost: license server UP v11.13.1
+
+Vendor daemon status (on DESKTOP-4F6KO2V):
+
+  depusafl: UP v11.13.1
+Feature usage info:
+
+Users of DepGlobalLicAP:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMorpherBase:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepHexMesher:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMeshWorksBase:  (Total of 280 licenses issued;  Total of 0 licenses in use)
+
+Users of DepDesignEnablerMW7:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepHexMesherMW7:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMeshWorksBaseMW7:  (Total of 280 licenses issued;  Total of 0 licenses in use)
+
+Users of DepOEMMW8:  (Total of 28 licenses issued;  Total of 0 licenses in use)
+
+Users of DepDesignEnablerMW8:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepHexMesherMW8:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMeshWorksBaseMW8:  (Total of 280 licenses issued;  Total of 0 licenses in use)
+
+Users of DepOEMMW20:  (Total of 28 licenses issued;  Total of 0 licenses in use)
+
+Users of DepDesignEnablerMW20:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepHexMesherMW20:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMeshWorksBaseMW20:  (Total of 280 licenses issued;  Total of 0 licenses in use)
+
+Users of DepConceptWorks:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepConceptWorksMW20:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepConceptWorksMW23:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepOEMMW21:  (Total of 28 licenses issued;  Total of 0 licenses in use)
+
+Users of DepDesignEnablerMW21:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepHexMesherMW21:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMeshWorksBaseMW21:  (Total of 280 licenses issued;  Total of 0 licenses in use)
+
+Users of DepOEMMW23:  (Total of 28 licenses issued;  Total of 0 licenses in use)
+
+Users of DepDesignEnablerMW23:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepHexMesherMW23:  (Total of 14 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMeshWorksBaseMW23:  (Total of 280 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMorpherBatch:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMorpherAdvanced:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMorpherDPM:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of DepMorpherFeature:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of DepInteriorWrapper:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of DepWizardFeature:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+Users of DepCavityMesher:  (Total of 8 licenses issued;  Total of 0 licenses in use)
+
+
